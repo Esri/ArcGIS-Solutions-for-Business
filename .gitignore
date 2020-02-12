@@ -1,0 +1,41 @@
+#############
+## Python
+#############
+
+*.py[co]
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+#################
+## Visual Studio
+#################
+
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+[Bb]in/
+[Oo]bj/
+
+**/.idea/*
+**/.vscode/*
+**/logs/*
+**/__pycache__/*
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Folder config file
+Desktop.ini
+
+*.lock
