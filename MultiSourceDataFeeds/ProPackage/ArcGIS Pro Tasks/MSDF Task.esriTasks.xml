@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata xml:lang="en">
+  <Esri>
+    <CreaDate>20190626</CreaDate>
+    <CreaTime>22001000</CreaTime>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <SyncOnce>TRUE</SyncOnce>
+    <scaleRange>
+      <minScale>150000000</minScale>
+      <maxScale>5000</maxScale>
+    </scaleRange>
+  </Esri>
+  <dataIdInfo>
+    <idCitation>
+      <resTitle>Multi Source Data Feeds Tasks</resTitle>
+    </idCitation>
+    <idPurp>unloading providers zip package</idPurp>
+    <idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;unloading providers zip package&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+    <searchKeys>
+      <keyword>MSDF</keyword>
+    </searchKeys>
+  </dataIdInfo>
+  <mdHrLv>
+    <ScopeCd value="005"></ScopeCd>
+  </mdHrLv>
+  <mdDateSt Sync="TRUE">20190627</mdDateSt>
+</metadata>
