@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata xml:lang="en">
+  <Esri>
+    <CreaDate>20200227</CreaDate>
+    <CreaTime>10183300</CreaTime>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <SyncOnce>TRUE</SyncOnce>
+    <scaleRange>
+      <minScale>150000000</minScale>
+      <maxScale>5000</maxScale>
+    </scaleRange>
+  </Esri>
+  <dataIdInfo>
+    <idCitation>
+      <resTitle>Market Planning</resTitle>
+    </idCitation>
+  </dataIdInfo>
+  <mdHrLv>
+    <ScopeCd value="005"></ScopeCd>
+  </mdHrLv>
+  <mdDateSt Sync="TRUE">20200306</mdDateSt>
+</metadata>
