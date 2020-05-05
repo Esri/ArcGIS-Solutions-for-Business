@@ -1,9 +1,8 @@
 # ArcGIS Soltuions for Business
 
 ## What's included
-This repository contains the following items:
-* Released content from MSDF: https://solutions.arcgis.com/business/help/multi-source-data-feeds/
-
+This repository contains the following Solutions that have been released from ArcGIS Solutions for Business:
+* Released content from [MSDF](https://solutions.arcgis.com/business/help/multi-source-data-feeds/)
 
 ## Issues
 
