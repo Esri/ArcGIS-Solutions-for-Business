@@ -1,4 +1,4 @@
-# ArcGIS Soltuions for Business
+# ArcGIS Solutions for Business
 The ArcGIS Solutions for Business team helps orgnaizations that use the ArcGIS Platform by delivering businesses timely insight to increase profit and decrease risk using location intelligence. This is done by releasing solutions, scripts, tools, and workflows that help our customers utlize location intelligence to make informed decisions in thier organization. 
 
 ## Solutions
