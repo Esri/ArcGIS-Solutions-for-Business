@@ -1,5 +1,5 @@
 # ArcGIS Soltuions for Business
-
+The ArcGIS Solutions for Business team helps orgnaizations that use the ArcGIS Platform by delivering businesses timely insight to increase profit and decrease risk using location intelligence. This is done by releasing solutions, scripts, tools, and workflows that help our customers utlize location intelligence to make informed decisions in thier organization. 
 ## What's included
 This repository contains the following Solutions that have been released from ArcGIS Solutions for Business:
 * Released content from [MSDF](https://solutions.arcgis.com/business/help/multi-source-data-feeds/)
