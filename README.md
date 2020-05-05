@@ -2,7 +2,7 @@
 
 ## What's included
 This repository contains the following items:
-* Open 
+* Released content from MSDF: https://solutions.arcgis.com/business/help/multi-source-data-feeds/
 
 
 ## Issues
@@ -11,7 +11,7 @@ Find a bug or want to request a new feature?  Please let us know by submitting a
 
 ## Contributing
 
-Anyone and everyone is welcome to contribute. Please see our contribution guideline [here](https://github.com/Esri/arcgis-python-api/wiki/How-to-contribute-samples-and-guide-chapters).
+Esri welcomes contributions from anyone and everyone. Please see our [guidelines for contributing](https://github.com/esri/contributing).
 
 ## Licensing
 Licensing
